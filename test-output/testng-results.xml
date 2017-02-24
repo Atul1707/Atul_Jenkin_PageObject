@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="87730" started-at="2017-02-23T16:49:05Z" finished-at="2017-02-23T16:50:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="87730" started-at="2017-02-23T16:49:05Z" finished-at="2017-02-23T16:50:33Z">
+      <class name="Maven.MavenDemo.LoginAmazonTest">
+        <test-method status="PASS" signature="testLoginAmazon()[pri:0, instance:Maven.MavenDemo.LoginAmazonTest@dd8904]" name="testLoginAmazon" duration-ms="87676" started-at="2017-02-23T22:19:05Z" finished-at="2017-02-23T22:20:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginAmazon -->
+      </class> <!-- Maven.MavenDemo.LoginAmazonTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
